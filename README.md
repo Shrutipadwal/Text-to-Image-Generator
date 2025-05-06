@@ -148,6 +148,9 @@ Visit http://localhost:3000 in your browser.
 
 
 🧑‍💻 Author
+
 Developed by SHRUTI PADWAL
+
 M.Sc. Computer Science
+
 LinkedIn: https://www.linkedin.com/in/shruti-padwal-b39054264/
